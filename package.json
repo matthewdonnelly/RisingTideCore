@@ -1,0 +1,30 @@
+{
+	"name": "rising_tide.core",
+	"version": "0.1.0",
+	"displayName": "Rising Tide Core",
+	"description": "A collection of core utility scripts and starter assets to be used by Rising Tide VR Solutions.",
+	"unity": "2022.3",
+	"unityRelease": "7f1",
+	"documentationUrl": "",
+	"changelogUrl": "",
+	"licensesUrl": "",
+	"dependencies": {
+		"com.unity.inputsystem": "1.6.3",
+		"com.unity.xr.interaction.toolkit": "2.4.3"
+	},
+	"keywords": [
+		"RisingTide",
+		"Rising Tide VR Solutions LLC"
+	],
+	"author": {
+		"name": "Rising Tide VR Solutions LLC"
+	},
+
+	"samples": [
+		{
+			"displayName": "Rising Tide Starter Assets",
+			"description": "A simple scene showcasing the use of the Rising Tide Starter Assets.",
+			"path": "Samples~/Rising Tide Starter Assets"
+		}
+	]
+}
