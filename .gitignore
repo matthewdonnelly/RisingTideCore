@@ -17,7 +17,7 @@ Samples.meta
 # If you are developing a package template, then you must ignore all meta files
 # This is only needed if this repository is meant to be a template
 # Students: Leave this commented out (don't ignore all .meta files)
-*.meta
+# *.meta
 
 ##########################
 ### For Unity projects ###
